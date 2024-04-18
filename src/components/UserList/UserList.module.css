@@ -1,0 +1,13 @@
+.container {
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+.title {
+  margin: 0;
+  font-size: 20px;
+}
+
+.list {
+  list-style-type: decimal;
+}
